@@ -36,7 +36,7 @@ Esto supera nuestro objetivo de F1 ≥ 0.75 y alcanza el umbral publicable de 0.
 ## Uso del Código
 
 1. Clona este repositorio
-2. Instala las dependencias (ver requirements.txt)
+2. Instala las dependencias (ver Requisitos)
 3. Monta Google Drive en la sesión de Colab
 4. Carga tus imágenes H&E y máscaras en las rutas especificadas
 5. Ejecuta el notebook `ERAZO_MARIN_VELARDE_PROYECTOMIA.ipynb` celda por celda
